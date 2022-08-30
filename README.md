@@ -4,11 +4,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [My process](#my-process)
-  - [Built with](HTML,CSS)
-  - [What I learned](#what-i-learned)
-  - [Continued development](continue on adding JS)
-- [Author](Eziovan-git)
+- My process
+  - Built with(HTML,CSS)
+  - What I learned
+  - Continued development on adding JS
+- Author(Eziovan-git)
 
 ## My process
 
